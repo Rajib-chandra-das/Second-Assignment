@@ -148,7 +148,7 @@ article {
   padding-bottom: 10px;
 }
 .feature-photo {
-  background: url("../images/architect.png");
+  background: url("./images/architect.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -379,4 +379,5 @@ article {
     max-width: 50%;
     height: 50%;
   }
+}
 }
